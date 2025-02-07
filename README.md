@@ -3,7 +3,7 @@
 I'm Sander Yaz, the mind behind **Loadium**. I like to build things, break them, and make them better.
 
 ## 🚀 About Me
-- 🔭 I'm currently working on [Loadum](https://loadium.com), a project focusing on extending load testing capabilities using Node.js and Angular.
+- 🔭 I'm currently working on [Loadium](https://loadium.com), a project focusing on extending load testing capabilities using Node.js and Angular.
 - 🌱 Always learning, especially in the areas of performance engineering, JavaScript ecosystems, and open-source contributions.
 - 👀 I’m interested in **collaborative, scalable tech solutions**.
 - 💬 Feel free to reach out to discuss anything tech, open-source, or just say hi!
