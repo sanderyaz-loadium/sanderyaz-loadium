@@ -9,7 +9,7 @@ I'm Sander Yaz, the mind behind **Loadium**. I like to build things, break them,
 - 💬 Feel free to reach out to discuss anything tech, open-source, or just say hi!
 
 ## 🌐 Connect with Me
-- 📫 Reach me via [email@example.com](mailto:Sander@SanderYaz.com) or find me on [LinkedIn](https://www.linkedin.com/in/sanderyaz).
+- 📫 Reach me via [Sander@SanderYaz.com](mailto:Sander@SanderYaz.com) or find me on [LinkedIn](https://www.linkedin.com/in/sanderyaz).
 - 💻 Check out my other projects [here](https://github.com/sanderyaz-loadium).
 
 ## 💞️ Let's Collaborate
